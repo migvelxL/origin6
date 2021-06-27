@@ -102,7 +102,7 @@ body {
 }
 
 .section {
-  padding: var(--header-height) 0;
+  padding: calc(var(--header-height) + 2rem) 0;
 }
 
 .section .title {
